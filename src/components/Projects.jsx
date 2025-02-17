@@ -14,7 +14,7 @@ function Projects() {
       technology: "React js, ASP.Net API, MySQL",
       moreInfo:
         " This application is built to help customers to post cooking jobs and the cooks can apply for the particular job posting online.While applying for the job, jobseekers can filter profile by uploading required documents and basic information. Customers have provision for submitting their reviews and profile to post the jobs. The Admins can view all the jobs submitted by customers and applied by the Job Seekers. Admin can either accept or reject the job.",
-      repo: "https://github.com/SATYA0082/CookHiringSystem",
+      repo: "https://github.com/Pradeep9s/CookHiringSystem",
     },
     {
       title: "Parking Management System",
@@ -22,23 +22,9 @@ function Projects() {
       technology: "Python, Tk GUI toolkit",
       moreInfo:
         "The project aims to develop a application that helps in generating the automated bills to the vehicles based on the duration the vehicle have been parked. If the user gives the details of his/her name, vehicle number, entry time, exit time, by this info we will calculate the parking fee and display the details of vehicle and display the parking fee to be paid.",
-      repo: "https://github.com/SATYA0082/ParkingManagementSystem",
+      repo: "https://github.com/Pradeep9s/ParkingManagementSystem",
     },
-    {
-      title: "Fraud Detection using Machine Learning",
-      period: "Dec 2022 to April 2023",
-      technology: "Python, Machine Learning",
-      moreInfo:
-        "This project focuses on advanced ML techniques to differentiate fraudulent and legitimate transactions. Conducted an exhaustive comparative analysis of decision trees, Naive Bayes, logistic regression, and multilayer perceptron models.",
-      repo: "https://github.com/rajarajeswari10/BlockChainFraudDetection",
-    },
-    {
-      title: "Power Bi Car Sales Analysis",
-      period: "August 2023",
-      technology: "Microsoft Power Bi(KPI)",
-      moreInfo:
-        "The car sales dashboard, developed using Power BI, provides real-time insights into sales performance, trends, and key metrics, enabling data-driven decision-making and streamlined operations.",
-    },
+   
   ];
 
   const openModal = (project) => {
@@ -72,7 +58,7 @@ function Projects() {
       <div className="gitDiv">
         <button className="gitButton">
           <a
-            href="https://github.com/SATYA0082?tab=repositories"
+            href="https://github.com/Pradeep9s?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
           >
